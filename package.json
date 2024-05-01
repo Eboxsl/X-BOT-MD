@@ -1,5 +1,5 @@
 {
-  "name": "X-BOT-MD",
+  "name": "E-BOT-MD",
   "version": "3.0.0",
   "description": "WhatsApp Helper Bot",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD.git"
+    "url": "git+https://github.com/A-S-W-I-N-S-P-A-R-K-Y-BOT-MD.git"
   },
   "keywords": [
     "bot",
